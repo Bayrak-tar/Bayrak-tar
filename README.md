@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bayram Bayraktar</h1>
-<h3 align="center">Developer | Electronics Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Data Engineer | AI Developer | Software Engineer | Lifelong Learner</h3>
 
 <p align="center">
   <em>Building scalable solutions with a focus on code quality, data intelligence, and automation.</em>
@@ -9,14 +9,14 @@
 
 <h3 align="left">🚀 About Me</h3>
 <p align="left">
-I am passionate about technology and enjoy solving complex problems. My background in electronics gives me a unique perspective on hardware-software integration, which I leverage in software development. I aim to create robust and maintainable systems with high-quality standards through rigorous testing.
+I am a Computer Engineer passionate about technology and solving complex problems. I focus on designing robust and maintainable software systems while leveraging data intelligence and AI to create innovative solutions. My goal is to continuously improve my skills and deliver high-quality projects.
 </p>
 
 <p align="left">Currently focusing on:</p>
 <ul>
     <li>🧪 <strong>Test Automation & QA Engineering</strong></li>
-    <li>📊 <strong>Advanced SQL & Database Management</strong></li>
-    <li>🤖 <strong>AI Agents & Chatbot Development</strong></li>
+    <li>📊 <strong>Data Engineering & Advanced SQL</strong></li>
+    <li>🤖 <strong>AI Development & Machine Learning</strong></li>
 </ul>
 
 ---
