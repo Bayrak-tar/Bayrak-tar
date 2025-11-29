@@ -16,8 +16,7 @@ I am a Computer Engineer passionate about technology and solving complex problem
   <a href="#"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Selenium-%23D9E3F0?style=for-the-badge&logo=selenium&logoColor=black" alt="Selenium"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/React%20Native-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Yapay%20Zeka-%23FF00FF?style=for-the-badge" alt="Yapay Zeka"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Yapay%20Zeka-%23FF00FF?style=for-the-badge" alt="AI"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Asp.Net%20Core-%230072C6?style=for-the-badge&logo=.net&logoColor=white" alt="Asp.Net Core"/></a>
   <a href="#"><img src="https://img.shields.io/badge/OpenCV-OCR-%23000000?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV - OCR"/></a>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
@@ -27,7 +26,6 @@ I am a Computer Engineer passionate about technology and solving complex problem
   <a href="#"><img src="https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></a>
   <a href="#"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Bootstrap-%238511FA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MicrosoftSQLServer"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/></a>
