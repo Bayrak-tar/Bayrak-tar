@@ -9,7 +9,7 @@
 
 <h3 align="left">🚀 About Me</h3>
 <p align="left">
-I am a Computer Engineer passionate about technology and solving complex problems. I focus on designing robust and maintainable software systems while leveraging data intelligence and AI to create innovative solutions. My goal is to continuously improve my skills and deliver high-quality projects.
+I am a Computer Engineer passionate about technology and solving complex problems. I focus on designing robust and maintainable software systems. My goal is to continuously improve my skills and deliver high-quality projects.
 </p>
 
 <p align="left">Currently focusing on:</p>
