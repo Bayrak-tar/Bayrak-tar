@@ -8,7 +8,6 @@ I am a Computer Engineer passionate about technology and solving complex problem
 ---
 
 <h3 align="left">💻 Languages & Tools</h3>
-<h3 align="left">💻 Languages & Tools</h3>
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Java-Spring%20Boot-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java-Spring Boot"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Oracle-%233DD1FF?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/></a>
@@ -41,7 +40,7 @@ I am a Computer Engineer passionate about technology and solving complex problem
 
 <h3 align="left">📫 Contact Me</h3>
 <p align="left">
-  <a href="mailto:bayraktar.bayram@example.com" target="_blank">
+  <a href="mailto:bayraktarbyrm32@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="45" height="45"/>
   </a>
   <a href="https://www.linkedin.com/in/bayraktar-bayram" target="_blank">
