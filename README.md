@@ -3,9 +3,9 @@
 
 <h3 align="left">About Me</h3>
 <p align="left">
-Hayatta beni en çok heyecanlandıran şey, yeni deneyimler kazanmak ve farklı bakış açılarıyla dünyayı keşfetmektir. Her gün küçük de olsa bir şeyler öğrenmek, bana hem ilham veriyor hem de ilerlemek için güç sağlıyor. Karşılaştığım zorluklar ve engeller, beni yıldırmak yerine daha yaratıcı ve kararlı olmaya yönlendiriyor.<br><br>
-İnanıyorum ki, hayat sürekli bir yolculuktur ve her adım, bilinçli seçimlerle dolu olduğunda anlam kazanır. Kendime ve yeteneklerime güvenerek, karşıma çıkan fırsatları değerlendirmeye çalışıyorum. Başarı, sadece sonuçla ölçülmez; süreçte öğrendiklerimiz ve kazandığımız deneyimler de en az sonuç kadar değerli.<br><br>
-Her gün kendimi geliştirmek, sınırlarımı zorlamak ve farklı alanlarda büyümek için bir fırsattır. Hayata merakla yaklaşmak, bana hem tutku hem de sabır kazandırıyor. İlerleyen zamanlarda hangi yolları seçeceğimi bilmiyorum, ama öğrenmeye ve gelişmeye olan bağlılığım, beni her zaman doğru yöne götürecek.
+What excites me the most in life is gaining new experiences and exploring the world from different perspectives. Learning something, even if small, every day inspires me and gives me the energy to move forward. Challenges and obstacles I encounter do not discourage me; instead, they drive me to become more creative and determined.<br><br>
+I believe that life is a continuous journey, and every step gains meaning when filled with conscious choices. By trusting myself and my abilities, I strive to take advantage of the opportunities that come my way. Success is not measured solely by results; what we learn and the experiences we gain along the way are just as valuable.<br><br>
+Every day is an opportunity to improve myself, push my limits, and grow in different areas. Approaching life with curiosity gives me both passion and patience. I may not know which paths I will take in the future, but my commitment to learning and self-development will always guide me in the right direction.
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -43,7 +43,7 @@ Her gün kendimi geliştirmek, sınırlarımı zorlamak ve farklı alanlarda bü
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="50" height="50"/></a>
 </p>
 <p align="left">
-  Test Otomasyon | Yapay Zeka | Proje Yönetimi
+  Test Automation | Artificial Intelligence | Project Management
 </p>
 
 ---
