@@ -43,7 +43,7 @@ I am a Computer Engineer passionate about technology and solving complex problem
   <a href="mailto:bayraktarbyrm32@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="45" height="45"/>
   </a>
-  <a href="https://www.linkedin.com/in/bayraktar-bayram" target="_blank">
+  <a href="https://www.linkedin.com/in/bayram-bayraktar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="45" height="45"/>
   </a>
   <a href="https://twitter.com/bayraktar_byrm" target="_blank">
